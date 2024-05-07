@@ -1,0 +1,32 @@
+// // --------- Footer Section All Pages---------
+// footer {
+//   height: 25vh;
+//   background: #0e0d0d;
+//   @include flex(space-between, center, column);
+//   .list {
+//     width: 100%;
+//     margin: 1rem 0 0 2rem;
+//     @include flex(flex-start, flex-start, row);
+//   }
+//   ul {
+//     align-items: flex-start;
+//     @include flex(space-around, center, row);
+//     list-style: none;
+//     font-size: 1.8rem;
+
+//     a {
+//       padding: 1rem 1rem 0 1rem;
+//     }
+//   }
+//   .logo {
+//     width: 100%;
+//     padding: 2rem;
+//     @include flex(flex-end, center, row);
+//   }
+//   .footerText {
+//     p {
+//       color: white;
+//       margin-bottom: 25%;
+//     }
+//   }
+// }

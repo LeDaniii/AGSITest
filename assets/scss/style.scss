@@ -1,0 +1,30 @@
+// ------ FlexBox for faster writing -----
+@mixin flex($justify, $align, $direction) {
+  display: flex;
+  justify-content: $justify;
+  align-items: $align;
+  flex-direction: $direction;
+}
+
+// ----- Global Button -----
+@mixin globalBtn($background, $color, $radius) {
+  border: none;
+  background: $background;
+  color: $color;
+  border-radius: $radius;
+  padding: 0.5rem;
+  font-size: 2.3rem;
+  cursor: pointer;
+}
+
+// ------ Import Sass ------
+@import "./main";
+@import "./nav";
+@import "./card";
+@import "./footer";
+@import "./global";
+@import "./mobile";
+@import "./tablet";
+@import "./team";
+@import "./content";
+@import "./news";

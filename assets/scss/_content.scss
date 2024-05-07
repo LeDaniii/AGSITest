@@ -1,0 +1,19 @@
+.content-wrapper {
+    @include flex(space-between, center, column);
+    width: 100%;
+    height: 100%;
+    padding: 1rem;
+    .content-nav {
+        background-color: #333;
+        color: white;
+        @include flex(center, center, row);
+        span {
+            padding: 0.5rem;
+            &:hover {
+                background-color: #ddd;
+                color: black;
+                cursor: pointer;
+            }
+        }
+    }
+}

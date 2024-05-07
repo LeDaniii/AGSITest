@@ -1,0 +1,1554 @@
+[
+  {
+    "country": "AT",
+    "type": "SSO",
+    "eic": "21X000000001160J",
+    "url": "https://agsi.gie.eu/api?country=AT&company=21X000000001160J",
+    "short_name": "astora",
+    "name": "astora GmbH"
+  },
+  {
+    "country": "AT",
+    "type": "Storage Facility",
+    "eic": "21W000000000078N",
+    "url": "https://agsi.gie.eu/api?country=AT&company=21X000000001160J&facility=21W000000000078N",
+    "short_name": "",
+    "name": "UGS Haidach (astora)"
+  },
+  {
+    "country": "AT",
+    "type": "SSO",
+    "eic": "25X-GSALLC-----E",
+    "url": "https://agsi.gie.eu/api?country=AT&company=25X-GSALLC-----E",
+    "short_name": "GSA",
+    "name": "GSA LLC"
+  },
+  {
+    "country": "AT",
+    "type": "Storage Facility",
+    "eic": "25W-SPHAID-GAZ-M",
+    "url": "https://agsi.gie.eu/api?country=AT&company=25X-GSALLC-----E&facility=25W-SPHAID-GAZ-M",
+    "short_name": "",
+    "name": "UGS Haidach (GSA)"
+  },
+  {
+    "country": "AT",
+    "type": "SSO",
+    "eic": "25X-OMVGASSTORA5",
+    "url": "https://agsi.gie.eu/api?country=AT&company=25X-OMVGASSTORA5",
+    "short_name": "OMV Gas Storage",
+    "name": "OMV Gas Storage GmbH"
+  },
+  {
+    "country": "AT",
+    "type": "Storage Group",
+    "eic": "21W000000000081Y",
+    "url": "https://agsi.gie.eu/api?country=AT&company=25X-OMVGASSTORA5&facility=21W000000000081Y",
+    "short_name": "",
+    "name": "VGS OMV Gas Storage Pool (Tallesbrunn & Schönkirchen / Reyersdorf)"
+  },
+  {
+    "country": "AT",
+    "type": "SSO",
+    "eic": "23X----100225-1C",
+    "url": "https://agsi.gie.eu/api?country=AT&company=23X----100225-1C",
+    "short_name": "RAG Energy Storage",
+    "name": "RAG Energy Storage"
+  },
+  {
+    "country": "AT",
+    "type": "Storage Group",
+    "eic": "21W000000000079L",
+    "url": "https://agsi.gie.eu/api?country=AT&company=23X----100225-1C&facility=21W000000000079L",
+    "short_name": "",
+    "name": "RAG Storage Pool (Puchkirchen / Haag, Aigelsbrunn, Haidach 5, 7Fields-RAG, Haidach)"
+  },
+  {
+    "country": "AT",
+    "type": "SSO",
+    "eic": "21X000000001127H",
+    "url": "https://agsi.gie.eu/api?country=AT&company=21X000000001127H",
+    "short_name": "Uniper Energy Storage (AT)",
+    "name": "Uniper Energy Storage GmbH"
+  },
+  {
+    "country": "AT",
+    "type": "Storage Facility",
+    "eic": "21W000000000057V",
+    "url": "https://agsi.gie.eu/api?country=AT&company=21X000000001127H&facility=21W000000000057V",
+    "short_name": "",
+    "name": "UGS 7 Fields (Uniper Energy Storage) - AT"
+  },
+  {
+    "country": "BE",
+    "type": "SSO",
+    "eic": "21X-BE-A-A0A0A-Y",
+    "url": "https://agsi.gie.eu/api?country=BE&company=21X-BE-A-A0A0A-Y",
+    "short_name": "Fluxys",
+    "name": "Fluxys Belgium S.A."
+  },
+  {
+    "country": "BE",
+    "type": "Storage Facility",
+    "eic": "21Z000000000102A",
+    "url": "https://agsi.gie.eu/api?country=BE&company=21X-BE-A-A0A0A-Y&facility=21Z000000000102A",
+    "short_name": "",
+    "name": "UGS Loenhout"
+  },
+  {
+    "country": "BG",
+    "type": "SSO",
+    "eic": "21X-BG-A-A0A0A-C",
+    "url": "https://agsi.gie.eu/api?country=BG&company=21X-BG-A-A0A0A-C",
+    "short_name": "Bulgartransgaz",
+    "name": "Bulgartransgaz EAD"
+  },
+  {
+    "country": "BG",
+    "type": "Storage Facility",
+    "eic": "21W000000000031C",
+    "url": "https://agsi.gie.eu/api?country=BG&company=21X-BG-A-A0A0A-C&facility=21W000000000031C",
+    "short_name": "",
+    "name": "UGS Chiren"
+  },
+  {
+    "country": "HR",
+    "type": "SSO",
+    "eic": "31X-PSP-OSS-HR-D",
+    "url": "https://agsi.gie.eu/api?country=HR&company=31X-PSP-OSS-HR-D",
+    "short_name": "PSP",
+    "name": "Podzemno skladište plina d.o.o."
+  },
+  {
+    "country": "HR",
+    "type": "Storage Facility",
+    "eic": "21W000000000077P",
+    "url": "https://agsi.gie.eu/api?country=HR&company=31X-PSP-OSS-HR-D&facility=21W000000000077P",
+    "short_name": "",
+    "name": "UGS Okoli"
+  },
+  {
+    "country": "CZ",
+    "type": "SSO",
+    "eic": "27XG-RWE-GAS-STI",
+    "url": "https://agsi.gie.eu/api?country=CZ&company=27XG-RWE-GAS-STI",
+    "short_name": "Gas Storage CZ",
+    "name": "Gas Storage CZ, s.r.o."
+  },
+  {
+    "country": "CZ",
+    "type": "Storage Group",
+    "eic": "21W000000000076R",
+    "url": "https://agsi.gie.eu/api?country=CZ&company=27XG-RWE-GAS-STI&facility=21W000000000076R",
+    "short_name": "",
+    "name": "VGS RWE (Háje, Třanovice, Štramberk, Tvrdonice, Dolni Dunajovice, Lobodice)"
+  },
+  {
+    "country": "CZ",
+    "type": "SSO",
+    "eic": "27XG-MNDGS-CZ--R",
+    "url": "https://agsi.gie.eu/api?country=CZ&company=27XG-MNDGS-CZ--R",
+    "short_name": "MND Energy Storage",
+    "name": "MND Energy Storage a.s."
+  },
+  {
+    "country": "CZ",
+    "type": "Storage Facility",
+    "eic": "21W000000000075T",
+    "url": "https://agsi.gie.eu/api?country=CZ&company=27XG-MNDGS-CZ--R&facility=21W000000000075T",
+    "short_name": "",
+    "name": "UGS Uhřice"
+  },
+  {
+    "country": "CZ",
+    "type": "SSO",
+    "eic": "27X-MORAVIAGS--E",
+    "url": "https://agsi.gie.eu/api?country=CZ&company=27X-MORAVIAGS--E",
+    "short_name": "Moravia Gas Storage",
+    "name": "Moravia Gas Storage a.s."
+  },
+  {
+    "country": "CZ",
+    "type": "Storage Facility",
+    "eic": "21W000000000102F",
+    "url": "https://agsi.gie.eu/api?country=CZ&company=27X-MORAVIAGS--E&facility=21W000000000102F",
+    "short_name": "",
+    "name": "UGS Dambořice"
+  },
+  {
+    "country": "CZ",
+    "type": "SSO",
+    "eic": "27X-SPPSTORAGE-R",
+    "url": "https://agsi.gie.eu/api?country=CZ&company=27X-SPPSTORAGE-R",
+    "short_name": "SPP Storage",
+    "name": "SPP Storage"
+  },
+  {
+    "country": "CZ",
+    "type": "Storage Facility",
+    "eic": "21W000000000074V",
+    "url": "https://agsi.gie.eu/api?country=CZ&company=27X-SPPSTORAGE-R&facility=21W000000000074V",
+    "short_name": "",
+    "name": "UGS Dolni Bojanovice"
+  },
+  {
+    "country": "DK",
+    "type": "SSO",
+    "eic": "21X000000001104T",
+    "url": "https://agsi.gie.eu/api?country=DK&company=21X000000001104T",
+    "short_name": "GSD",
+    "name": "Gas Storage Denmark"
+  },
+  {
+    "country": "DK",
+    "type": "Storage Group",
+    "eic": "45W000000000112V",
+    "url": "https://agsi.gie.eu/api?country=DK&company=21X000000001104T&facility=45W000000000112V",
+    "short_name": "",
+    "name": "VGS GSD Gas Storage (Lille Torup, Stenlille)"
+  },
+  {
+    "country": "FR",
+    "type": "SSO",
+    "eic": "21X000000001083B",
+    "url": "https://agsi.gie.eu/api?country=FR&company=21X000000001083B",
+    "short_name": "Storengy",
+    "name": "Storengy S.A."
+  },
+  {
+    "country": "FR",
+    "type": "Storage Group",
+    "eic": "21W000000000073X",
+    "url": "https://agsi.gie.eu/api?country=FR&company=21X000000001083B&facility=21W000000000073X",
+    "short_name": "",
+    "name": "VGS SERENE NORD (Trois Fontaines l’Abbaye, Cerville, Germiny-sous-Coulombs, Saint-Clair-sur-Epte)"
+  },
+  {
+    "country": "FR",
+    "type": "Storage Group",
+    "eic": "21W000000000072Z",
+    "url": "https://agsi.gie.eu/api?country=FR&company=21X000000001083B&facility=21W000000000072Z",
+    "short_name": "",
+    "name": "VGS SEDIANE LITTORAL  // Historical data prior to 1 April 2019 (Chémery, Céré-la-Ronde, Soings-en-Sologne)"
+  },
+  {
+    "country": "FR",
+    "type": "Storage Group",
+    "eic": "21W0000000000710",
+    "url": "https://agsi.gie.eu/api?country=FR&company=21X000000001083B&facility=21W0000000000710",
+    "short_name": "",
+    "name": "VGS SEDIANE (Saint-Illiers, Beynes Supérieur, Beynes Profond)"
+  },
+  {
+    "country": "FR",
+    "type": "Storage Group",
+    "eic": "21W0000000000702",
+    "url": "https://agsi.gie.eu/api?country=FR&company=21X000000001083B&facility=21W0000000000702",
+    "short_name": "",
+    "name": "VGS SEDIANE B (Gournay-sur-Aronde)"
+  },
+  {
+    "country": "FR",
+    "type": "Storage Group",
+    "eic": "21W000000000069O",
+    "url": "https://agsi.gie.eu/api?country=FR&company=21X000000001083B&facility=21W000000000069O",
+    "short_name": "",
+    "name": "VGS SERENE SUD // Historical data prior to 1 April 2019 (Chémery, Céré-la-Ronde, Soings-en-Sologne)"
+  },
+  {
+    "country": "FR",
+    "type": "Storage Group",
+    "eic": "21W000000000084S",
+    "url": "https://agsi.gie.eu/api?country=FR&company=21X000000001083B&facility=21W000000000084S",
+    "short_name": "",
+    "name": "VGS SALINE (Tersanne, Etrez, Manosque)"
+  },
+  {
+    "country": "FR",
+    "type": "Storage Group",
+    "eic": "63W197197128864M",
+    "url": "https://agsi.gie.eu/api?country=FR&company=21X000000001083B&facility=63W197197128864M",
+    "short_name": "",
+    "name": "VGS SERENE ATLANTIQUE ((Chéméry, Céré-la-Ronde, Soings-en-Sologne)"
+  },
+  {
+    "country": "FR",
+    "type": "SSO",
+    "eic": "21X-FR-B-A0A0A-J",
+    "url": "https://agsi.gie.eu/api?country=FR&company=21X-FR-B-A0A0A-J",
+    "short_name": "Teréga",
+    "name": "Teréga S.A."
+  },
+  {
+    "country": "FR",
+    "type": "Storage Group",
+    "eic": "21W000000000068Q",
+    "url": "https://agsi.gie.eu/api?country=FR&company=21X-FR-B-A0A0A-J&facility=21W000000000068Q",
+    "short_name": "",
+    "name": "VGS Lussagnet (TERÉGA)"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "21X000000001160J",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001160J",
+    "short_name": "astora (Germany)",
+    "name": "astora GmbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21Z000000000271O",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001160J&facility=21Z000000000271O",
+    "short_name": "",
+    "name": "UGS Rehden"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000001148",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001160J&facility=21W0000000001148",
+    "short_name": "",
+    "name": "UGS Jemgum H (astora)"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Group",
+    "eic": "21W0000000001261",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001160J&facility=21W0000000001261",
+    "short_name": "",
+    "name": "VSP NORD (Rehden, Jemgum)"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "37X0000000000151",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X0000000000151",
+    "short_name": "bayernugs",
+    "name": "bayernugs GmbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000000184",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X0000000000151&facility=21W0000000000184",
+    "short_name": "",
+    "name": "UGS Wolfersberg"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "37X0000000000224",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X0000000000224",
+    "short_name": "BES",
+    "name": "Berliner Erdgasspeicher GmbH & Co. KG"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000001083",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X0000000000224&facility=21W0000000001083",
+    "short_name": "",
+    "name": "UGS Berlin (decommissioned)"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "37X000000000152S",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X000000000152S",
+    "short_name": "EDF Gas Deutschland",
+    "name": "EDF Gas Deutschland GmbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "37W000000000003M",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X000000000152S&facility=37W000000000003M",
+    "short_name": "",
+    "name": "VGS UGS Etzel (EDF)"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "11X0-0000-0667-8",
+    "url": "https://agsi.gie.eu/api?country=DE&company=11X0-0000-0667-8",
+    "short_name": "EnBW Etzel Speicher",
+    "name": "EnBW Etzel Speicher GmbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "11W0-0000-0432-M",
+    "url": "https://agsi.gie.eu/api?country=DE&company=11X0-0000-0667-8&facility=11W0-0000-0432-M",
+    "short_name": "",
+    "name": "VGS UGS Etzel (EnBW)"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "21X0000000010849",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X0000000010849",
+    "short_name": "Eneco Gasspeicher",
+    "name": "Eneco Gasspeicher BV"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000012G",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X0000000010849&facility=21W000000000012G",
+    "short_name": "",
+    "name": "UGS Enschede - Epe (Eneco)"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "11XSWHANNOVERAG3",
+    "url": "https://agsi.gie.eu/api?country=DE&company=11XSWHANNOVERAG3",
+    "short_name": "enercity",
+    "name": "enercity Speichervermarktungsgesellschaft mbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21Z0000000004002",
+    "url": "https://agsi.gie.eu/api?country=DE&company=11XSWHANNOVERAG3&facility=21Z0000000004002",
+    "short_name": "",
+    "name": "UGS Ronnenberg-Empelde"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "37X000000000049L",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X000000000049L",
+    "short_name": "Enovos Storage",
+    "name": "Enovos Storage GmbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000001180",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X000000000049L&facility=21W0000000001180",
+    "short_name": "",
+    "name": "UGS Frankenthal"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "21X000000001368W",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001368W",
+    "short_name": "Equinor Storage Deutschland",
+    "name": "Equinor Storage Deutschland GmbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Group",
+    "eic": "21W000000000100J",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001368W&facility=21W000000000100J",
+    "short_name": "",
+    "name": "UGS Etzel EGL (Equinor Storage Deutschland)"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "21X000000001297T",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001297T",
+    "short_name": "Erdgasspeicher Peissen",
+    "name": "Erdgasspeicher Peissen GmbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000000281",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001297T&facility=21W0000000000281",
+    "short_name": "",
+    "name": "UGS Katharina"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "21X000000001080H",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001080H",
+    "short_name": "EKB ****",
+    "name": "Etzel-Kavernenbetriebsgesellschaft GmbH & Co. KG"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21Z000000000291I",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001080H&facility=21Z000000000291I",
+    "short_name": "",
+    "name": "UGS Etzel EKB"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "21X0000000011756",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X0000000011756",
+    "short_name": "EWE Gasspeicher",
+    "name": "EWE Gasspeicher GmbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000001075",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X0000000011756&facility=21W0000000001075",
+    "short_name": "",
+    "name": "UGS EWE-Zone L"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000048W",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X0000000011756&facility=21W000000000048W",
+    "short_name": "",
+    "name": "UGS Rüdersdorf H"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000104B",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X0000000011756&facility=21W000000000104B",
+    "short_name": "",
+    "name": "UGS Nüttermoor H-2"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000103D",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X0000000011756&facility=21W000000000103D",
+    "short_name": "",
+    "name": "UGS Nüttermoor H-3"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000001067",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X0000000011756&facility=21W0000000001067",
+    "short_name": "",
+    "name": "UGS Nüttermoor L GUD"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000000508",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X0000000011756&facility=21W0000000000508",
+    "short_name": "",
+    "name": "UGS Jemgum H (EWE)"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "PRIOR_EWE_000001",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X0000000011756&facility=PRIOR_EWE_000001",
+    "short_name": "",
+    "name": "UGS Nüttermoor H aggregated data prior to 7 April 2016"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Group",
+    "eic": "37W000000000002O",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X0000000011756&facility=37W000000000002O",
+    "short_name": "",
+    "name": "EWE H-Gas Zone"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "21X0000000013805",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X0000000013805",
+    "short_name": "HanseWerk",
+    "name": "HanseWerk AG"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000020H",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X0000000013805&facility=21W000000000020H",
+    "short_name": "",
+    "name": "UGS Kraak"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "21X000000001140P",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001140P",
+    "short_name": "KGE",
+    "name": "Kommunale Gasspeichergesellschaft Epe mbH & Co. KG"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000097J",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001140P&facility=21W000000000097J",
+    "short_name": "",
+    "name": "UGS Epe (KGE)"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "37X000000000047P",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X000000000047P",
+    "short_name": "MET Speicher",
+    "name": "MET Speicher GmbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000055Z",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X000000000047P&facility=21W000000000055Z",
+    "short_name": "",
+    "name": "UGS Etzel ESE (MET)"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000000540",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X000000000047P&facility=21W0000000000540",
+    "short_name": "",
+    "name": "UGS Reckrod"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "37X000000000042Z",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X000000000042Z",
+    "short_name": "MND Energy Storage Germany",
+    "name": "MND Energy Storage Germany GmbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000064Y",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X000000000042Z&facility=21W000000000064Y",
+    "short_name": "",
+    "name": "UGS Haehnlein (historical data prior to 01/04/2016)"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000000621",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X000000000042Z&facility=21W0000000000621",
+    "short_name": "",
+    "name": "UGS Stockstadt (historical data prior to 01/04/2016)"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Group",
+    "eic": "37Y000000000386Q",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X000000000042Z&facility=37Y000000000386Q",
+    "short_name": "",
+    "name": "VGS Zone MND ESG (UGS Stockstadt + UGS Haehnlein)"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "21X0000000011748",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X0000000011748",
+    "short_name": "NAFTA Speicher Inzenham",
+    "name": "NAFTA Speicher Inzenham GmbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000000192",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X0000000011748&facility=21W0000000000192",
+    "short_name": "",
+    "name": "UGS Inzenham-West"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "37X0000000000119",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X0000000000119",
+    "short_name": "NUON Epe Gasspeicher",
+    "name": "NUON Epe Gasspeicher GmbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000005D",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X0000000000119&facility=21W000000000005D",
+    "short_name": "",
+    "name": "UGS Enschede - Epe (Nuon)"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "25X-OMVGASSTORA5",
+    "url": "https://agsi.gie.eu/api?country=DE&company=25X-OMVGASSTORA5",
+    "short_name": "OMV Gas Storage Germany",
+    "name": "OMV Gas Storage Germany GmbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000056X",
+    "url": "https://agsi.gie.eu/api?country=DE&company=25X-OMVGASSTORA5&facility=21W000000000056X",
+    "short_name": "",
+    "name": "UGS Etzel ESE (OMV)"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "21X000000001262B",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001262B",
+    "short_name": "RWE Gas Storage West",
+    "name": "RWE Gas Storage West GmbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000000532",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001262B&facility=21W0000000000532",
+    "short_name": "",
+    "name": "UGS Epe-L-RWEGSW"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000000524",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001262B&facility=21W0000000000524",
+    "short_name": "",
+    "name": "UGS Epe-H-RWEGSWEST (historical data prior to 1 April 2017)"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000004F",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001262B&facility=21W000000000004F",
+    "short_name": "",
+    "name": "UGS Hoogstede-Kalle (decommissioned)"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000000516",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001262B&facility=21W0000000000516",
+    "short_name": "",
+    "name": "UGS Xanten-RWEGSWEST (historical data prior to 1 April 2017)"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000000265",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001262B&facility=21W0000000000265",
+    "short_name": "",
+    "name": "UGS STASSFURT-RWEGSWEST"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000003H",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001262B&facility=21W000000000003H",
+    "short_name": "",
+    "name": "UGS Epe-NL-RWEGSWEST"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Group",
+    "eic": "21W000000000121B",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001262B&facility=21W000000000121B",
+    "short_name": "",
+    "name": "INNEXPOOL-RWEGSW"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "21X000000001072G",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001072G",
+    "short_name": "Storengy Deutschland",
+    "name": "Storengy Deutschland GmbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000093R",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001072G&facility=21W000000000093R",
+    "short_name": "",
+    "name": "UGS Uelsen"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000092T",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001072G&facility=21W000000000092T",
+    "short_name": "",
+    "name": "UGS Harsefeld"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000000273",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001072G&facility=21W0000000000273",
+    "short_name": "",
+    "name": "UGS Peckensen"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000091V",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001072G&facility=21W000000000091V",
+    "short_name": "",
+    "name": "UGS Fronhofen"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000090X",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001072G&facility=21W000000000090X",
+    "short_name": "",
+    "name": "UGS Lesum"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000089I",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001072G&facility=21W000000000089I",
+    "short_name": "",
+    "name": "UGS Schmidhausen"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "37X000000000051Y",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X000000000051Y",
+    "short_name": "SWKiel Speicher",
+    "name": "SWKiel Speicher GmbH "
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000058T",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X000000000051Y&facility=21W000000000058T",
+    "short_name": "",
+    "name": "UGS Kiel Rönne (historical data Hansewerk prior to 01/04/2020)"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000001164",
+    "url": "https://agsi.gie.eu/api?country=DE&company=37X000000000051Y&facility=21W0000000001164",
+    "short_name": "",
+    "name": "UGS Kiel-Rönne"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "21X000000001307F",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001307F",
+    "short_name": "TEP",
+    "name": "TEP Thüringer Energie Speichergesellschaft mbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000030E",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001307F&facility=21W000000000030E",
+    "short_name": "",
+    "name": "UGS Allmenhausen"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Group",
+    "eic": "37W0000000001088",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001307F&facility=37W0000000001088",
+    "short_name": "",
+    "name": "TEP Storage Hub (Allmenhausen, Kirchheiligen)"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "21X000000001310Q",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001310Q",
+    "short_name": "Trianel Gasspeicher Epe",
+    "name": "Trianel Gasspeicher Epe GmbH & Co. KG"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000085Q",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001310Q&facility=21W000000000085Q",
+    "short_name": "",
+    "name": "UGS Epe Trianel"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "21X000000001127H",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001127H",
+    "short_name": "Uniper Energy Storage",
+    "name": "Uniper Energy Storage GmbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000067S",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001127H&facility=21W000000000067S",
+    "short_name": "",
+    "name": "UGS Krummhorn (decommissioned)"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000066U",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001127H&facility=21W000000000066U",
+    "short_name": "",
+    "name": "UGS Epe Uniper H-Gas"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000065W",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001127H&facility=21W000000000065W",
+    "short_name": "",
+    "name": "UGS Epe Uniper L-Gas"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000000613",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001127H&facility=21W0000000000613",
+    "short_name": "",
+    "name": "UGS Bierwang"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000000605",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001127H&facility=21W0000000000605",
+    "short_name": "",
+    "name": "UGS Breitbrunn"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000059R",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001127H&facility=21W000000000059R",
+    "short_name": "",
+    "name": "UGS Etzel Erdgas Lager EGL"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W0000000000168",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001127H&facility=21W0000000000168",
+    "short_name": "",
+    "name": "UGS Etzel ESE (Uniper Energy Storage)"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000083U",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001127H&facility=21W000000000083U",
+    "short_name": "",
+    "name": "UGS Eschenfelden (decommissioned)"
+  },
+  {
+    "country": "DE",
+    "type": "SSO",
+    "eic": "21X000000001138C",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001138C",
+    "short_name": "VNG Gasspeicher GmbH",
+    "name": "VNG Gasspeicher GmbH"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000120D",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001138C&facility=21W000000000120D",
+    "short_name": "",
+    "name": "UGS Etzel ESE (VGS)"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Group",
+    "eic": "21W0000000001091",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001138C&facility=21W0000000001091",
+    "short_name": "",
+    "name": "VGS VTP Storage GPL"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Group",
+    "eic": "21W0000000000427",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001138C&facility=21W0000000000427",
+    "short_name": "",
+    "name": "VGS Storage Hub (Bernburg, Bad Lauchstädt)"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000023B",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001138C&facility=21W000000000023B",
+    "short_name": "",
+    "name": "UGS Kirchheiligen (historical data prior to 31 March 2018)"
+  },
+  {
+    "country": "DE",
+    "type": "Storage Facility",
+    "eic": "21W000000000128Y",
+    "url": "https://agsi.gie.eu/api?country=DE&company=21X000000001138C&facility=21W000000000128Y",
+    "short_name": "",
+    "name": "UGS Jemgum H (VGS)"
+  },
+  {
+    "country": "HU",
+    "type": "SSO",
+    "eic": "21X0000000013643",
+    "url": "https://agsi.gie.eu/api?country=HU&company=21X0000000013643",
+    "short_name": "HEXUM",
+    "name": "HEXUM Földgáz Zrt."
+  },
+  {
+    "country": "HU",
+    "type": "Storage Facility",
+    "eic": "21W000000000086O",
+    "url": "https://agsi.gie.eu/api?country=HU&company=21X0000000013643&facility=21W000000000086O",
+    "short_name": "",
+    "name": "UGS Szöreg-1"
+  },
+  {
+    "country": "HU",
+    "type": "SSO",
+    "eic": "21X0000000013635",
+    "url": "https://agsi.gie.eu/api?country=HU&company=21X0000000013635",
+    "short_name": "HGS",
+    "name": "Hungarian Gas Storage"
+  },
+  {
+    "country": "HU",
+    "type": "Storage Group",
+    "eic": "21W000000000087M",
+    "url": "https://agsi.gie.eu/api?country=HU&company=21X0000000013635&facility=21W000000000087M",
+    "short_name": "",
+    "name": "VGS MFGT (Pusztaederics, Zsana-Nord, Kardoskút-Pusztaszolos, Hajdúszoboszló)"
+  },
+  {
+    "country": "IE",
+    "type": "SSO",
+    "eic": "47X0000000000584",
+    "url": "https://agsi.gie.eu/api?country=IE&company=47X0000000000584",
+    "short_name": "Kinsale Energy",
+    "name": "PSE Kinsale Energy Limited"
+  },
+  {
+    "country": "IE",
+    "type": "Storage Facility",
+    "eic": "47W000000000245J",
+    "url": "https://agsi.gie.eu/api?country=IE&company=47X0000000000584&facility=47W000000000245J",
+    "short_name": "",
+    "name": "UGS Kinsale Southwest (decommissioned)"
+  },
+  {
+    "country": "IT",
+    "type": "SSO",
+    "eic": "21X0000000013651",
+    "url": "https://agsi.gie.eu/api?country=IT&company=21X0000000013651",
+    "short_name": "Edison Stoccaggio",
+    "name": "Edison Stoccaggio S.p.A."
+  },
+  {
+    "country": "IT",
+    "type": "Storage Group",
+    "eic": "21W000000000095N",
+    "url": "https://agsi.gie.eu/api?country=IT&company=21X0000000013651&facility=21W000000000095N",
+    "short_name": "",
+    "name": "VGS Edison Stoccaggio (Collalto, Cellino, San Potito & Cotignola)"
+  },
+  {
+    "country": "IT",
+    "type": "SSO",
+    "eic": "59X4-IGSTORAGE-T",
+    "url": "https://agsi.gie.eu/api?country=IT&company=59X4-IGSTORAGE-T",
+    "short_name": "IGS",
+    "name": "IGS S.p.A."
+  },
+  {
+    "country": "IT",
+    "type": "Storage Facility",
+    "eic": "59W-IGSTORAGE-0Q",
+    "url": "https://agsi.gie.eu/api?country=IT&company=59X4-IGSTORAGE-T&facility=59W-IGSTORAGE-0Q",
+    "short_name": "",
+    "name": "UGS Cornegliano"
+  },
+  {
+    "country": "IT",
+    "type": "SSO",
+    "eic": "21X000000001250I",
+    "url": "https://agsi.gie.eu/api?country=IT&company=21X000000001250I",
+    "short_name": "Stogit",
+    "name": "Stogit S.p.A."
+  },
+  {
+    "country": "IT",
+    "type": "Storage Group",
+    "eic": "21Z000000000274I",
+    "url": "https://agsi.gie.eu/api?country=IT&company=21X000000001250I&facility=21Z000000000274I",
+    "short_name": "",
+    "name": "VGS STOGIT (Fiume Treste, Bordolano, Sabbioncello, Minerbio, Sergnano, Ripalta, Cortemaggiore, Brugherio, Settala)"
+  },
+  {
+    "country": "LV",
+    "type": "SSO",
+    "eic": "21X000000001379R",
+    "url": "https://agsi.gie.eu/api?country=LV&company=21X000000001379R",
+    "short_name": "AS Conexus Baltic Grid",
+    "name": "JSC Conexus Baltic Grid"
+  },
+  {
+    "country": "LV",
+    "type": "Storage Facility",
+    "eic": "21W000000000113A",
+    "url": "https://agsi.gie.eu/api?country=LV&company=21X000000001379R&facility=21W000000000113A",
+    "short_name": "",
+    "name": "UGS Incukalns"
+  },
+  {
+    "country": "NL",
+    "type": "SSO",
+    "eic": "21X000000001057C",
+    "url": "https://agsi.gie.eu/api?country=NL&company=21X000000001057C",
+    "short_name": "EnergyStock",
+    "name": "EnergyStock BV"
+  },
+  {
+    "country": "NL",
+    "type": "Storage Facility",
+    "eic": "21W000000000006B",
+    "url": "https://agsi.gie.eu/api?country=NL&company=21X000000001057C&facility=21W000000000006B",
+    "short_name": "",
+    "name": "UGS EnergyStock"
+  },
+  {
+    "country": "NL",
+    "type": "SSO",
+    "eic": "21X0000000011756",
+    "url": "https://agsi.gie.eu/api?country=NL&company=21X0000000011756",
+    "short_name": "EWE Gasspeicher (NL) *****",
+    "name": "EWE Gasspeicher GmbH"
+  },
+  {
+    "country": "NL",
+    "type": "Storage Facility",
+    "eic": "21W0000000001059",
+    "url": "https://agsi.gie.eu/api?country=NL&company=21X0000000011756&facility=21W0000000001059",
+    "short_name": "",
+    "name": "UGS Nüttermoor H-1"
+  },
+  {
+    "country": "NL",
+    "type": "Storage Facility",
+    "eic": "37W000000000105E",
+    "url": "https://agsi.gie.eu/api?country=NL&company=21X0000000011756&facility=37W000000000105E",
+    "short_name": "",
+    "name": "UGS Nüttermoor H-4"
+  },
+  {
+    "country": "NL",
+    "type": "SSO",
+    "eic": "21X000000001075A",
+    "url": "https://agsi.gie.eu/api?country=NL&company=21X000000001075A",
+    "short_name": "NAM *",
+    "name": "Nederlandse Aardolie Maatschappij B.V."
+  },
+  {
+    "country": "NL",
+    "type": "Storage Facility",
+    "eic": "21W000000000001L",
+    "url": "https://agsi.gie.eu/api?country=NL&company=21X000000001075A&facility=21W000000000001L",
+    "short_name": "",
+    "name": "UGS Grijpskerk L-gas"
+  },
+  {
+    "country": "NL",
+    "type": "Storage Facility",
+    "eic": "21W000000000015A",
+    "url": "https://agsi.gie.eu/api?country=NL&company=21X000000001075A&facility=21W000000000015A",
+    "short_name": "",
+    "name": "UGS Norg (Langelo) L-gas"
+  },
+  {
+    "country": "NL",
+    "type": "SSO",
+    "eic": "21X000000001120V",
+    "url": "https://agsi.gie.eu/api?country=NL&company=21X000000001120V",
+    "short_name": "TAQA Gas Storage",
+    "name": "TAQA Gas Storage B.V."
+  },
+  {
+    "country": "NL",
+    "type": "Storage Facility",
+    "eic": "21W0000000000087",
+    "url": "https://agsi.gie.eu/api?country=NL&company=21X000000001120V&facility=21W0000000000087",
+    "short_name": "",
+    "name": "UGS Bergermeer"
+  },
+  {
+    "country": "NL",
+    "type": "SSO",
+    "eic": "21X0000000013732",
+    "url": "https://agsi.gie.eu/api?country=NL&company=21X0000000013732",
+    "short_name": "TAQA Piek Gas",
+    "name": "TAQA Piek Gas B.V."
+  },
+  {
+    "country": "NL",
+    "type": "Storage Facility",
+    "eic": "21W000000000002J",
+    "url": "https://agsi.gie.eu/api?country=NL&company=21X0000000013732&facility=21W000000000002J",
+    "short_name": "",
+    "name": "UGS Alkmaar"
+  },
+  {
+    "country": "PL",
+    "type": "SSO",
+    "eic": "53XPL000000OSMP5",
+    "url": "https://agsi.gie.eu/api?country=PL&company=53XPL000000OSMP5",
+    "short_name": "GSP",
+    "name": "Gas Storage Poland sp. z o.o."
+  },
+  {
+    "country": "PL",
+    "type": "Storage Group",
+    "eic": "21Z000000000382F",
+    "url": "https://agsi.gie.eu/api?country=PL&company=53XPL000000OSMP5&facility=21Z000000000382F",
+    "short_name": "",
+    "name": "VGS GIM Sanok (Brzeznica, Husow, Strachocina, Swarzow)"
+  },
+  {
+    "country": "PL",
+    "type": "Storage Group",
+    "eic": "21Z000000000383D",
+    "url": "https://agsi.gie.eu/api?country=PL&company=53XPL000000OSMP5&facility=21Z000000000383D",
+    "short_name": "",
+    "name": "VGS GIM Kawerna (Kosakowo, Mogilno)"
+  },
+  {
+    "country": "PL",
+    "type": "Storage Facility",
+    "eic": "21Z000000000381H",
+    "url": "https://agsi.gie.eu/api?country=PL&company=53XPL000000OSMP5&facility=21Z000000000381H",
+    "short_name": "",
+    "name": "UGS Wierzchowice"
+  },
+  {
+    "country": "PL",
+    "type": "Storage Group",
+    "eic": "PRIOR_OSM_000001",
+    "url": "https://agsi.gie.eu/api?country=PL&company=53XPL000000OSMP5&facility=PRIOR_OSM_000001",
+    "short_name": "",
+    "name": "GSP historical data prior to 4 Feb 2014"
+  },
+  {
+    "country": "PT",
+    "type": "SSO",
+    "eic": "21X0000000013627",
+    "url": "https://agsi.gie.eu/api?country=PT&company=21X0000000013627",
+    "short_name": "REN Armazenagem",
+    "name": "REN Armazenagem S.A."
+  },
+  {
+    "country": "PT",
+    "type": "Storage Facility",
+    "eic": "16ZAS01--------8",
+    "url": "https://agsi.gie.eu/api?country=PT&company=21X0000000013627&facility=16ZAS01--------8",
+    "short_name": "",
+    "name": "UGS Carriço"
+  },
+  {
+    "country": "RO",
+    "type": "SSO",
+    "eic": "21X000000001300T",
+    "url": "https://agsi.gie.eu/api?country=RO&company=21X000000001300T",
+    "short_name": "Depomures",
+    "name": "Depomures SA"
+  },
+  {
+    "country": "RO",
+    "type": "Storage Facility",
+    "eic": "21Z000000000309P",
+    "url": "https://agsi.gie.eu/api?country=RO&company=21X000000001300T&facility=21Z000000000309P",
+    "short_name": "",
+    "name": "UGS Târgu Mureş"
+  },
+  {
+    "country": "RO",
+    "type": "SSO",
+    "eic": "21X-DEPOGAZ-AGSI",
+    "url": "https://agsi.gie.eu/api?country=RO&company=21X-DEPOGAZ-AGSI",
+    "short_name": "Depogaz Ploiești",
+    "name": "SNGN ROMGAZ SA FILIALA DE INMAGAZINARE GN DEPOGAZ PLOIESTI SRL / AGSI+"
+  },
+  {
+    "country": "RO",
+    "type": "Storage Facility",
+    "eic": "21Z0000000003103",
+    "url": "https://agsi.gie.eu/api?country=RO&company=21X-DEPOGAZ-AGSI&facility=21Z0000000003103",
+    "short_name": "",
+    "name": "UGS Urziceni"
+  },
+  {
+    "country": "RO",
+    "type": "Storage Facility",
+    "eic": "21Z000000000313Y",
+    "url": "https://agsi.gie.eu/api?country=RO&company=21X-DEPOGAZ-AGSI&facility=21Z000000000313Y",
+    "short_name": "",
+    "name": "UGS Bilciuresti"
+  },
+  {
+    "country": "RO",
+    "type": "Storage Facility",
+    "eic": "21Z0000000003111",
+    "url": "https://agsi.gie.eu/api?country=RO&company=21X-DEPOGAZ-AGSI&facility=21Z0000000003111",
+    "short_name": "",
+    "name": "UGS Bălăceanca "
+  },
+  {
+    "country": "RO",
+    "type": "Storage Facility",
+    "eic": "21Z000000000314W",
+    "url": "https://agsi.gie.eu/api?country=RO&company=21X-DEPOGAZ-AGSI&facility=21Z000000000314W",
+    "short_name": "",
+    "name": "UGS Sărmășel "
+  },
+  {
+    "country": "RO",
+    "type": "Storage Facility",
+    "eic": "21Z000000000315U",
+    "url": "https://agsi.gie.eu/api?country=RO&company=21X-DEPOGAZ-AGSI&facility=21Z000000000315U",
+    "short_name": "",
+    "name": "UGS Ghercesti"
+  },
+  {
+    "country": "RO",
+    "type": "Storage Facility",
+    "eic": "21Z000000000316S",
+    "url": "https://agsi.gie.eu/api?country=RO&company=21X-DEPOGAZ-AGSI&facility=21Z000000000316S",
+    "short_name": "",
+    "name": "UGS Cetatea de Baltă "
+  },
+  {
+    "country": "SK",
+    "type": "SSO",
+    "eic": "42X-NAFTA-SK---U",
+    "url": "https://agsi.gie.eu/api?country=SK&company=42X-NAFTA-SK---U",
+    "short_name": "Nafta",
+    "name": "Nafta a.s."
+  },
+  {
+    "country": "SK",
+    "type": "Storage Facility",
+    "eic": "21W000000000088K",
+    "url": "https://agsi.gie.eu/api?country=SK&company=42X-NAFTA-SK---U&facility=21W000000000088K",
+    "short_name": "",
+    "name": "UGS Láb (incl. Gajary baden)"
+  },
+  {
+    "country": "SK",
+    "type": "SSO",
+    "eic": "42X-POZAGAS-SK-V",
+    "url": "https://agsi.gie.eu/api?country=SK&company=42X-POZAGAS-SK-V",
+    "short_name": "Pozagas",
+    "name": "Pozagas a.s."
+  },
+  {
+    "country": "SK",
+    "type": "Storage Facility",
+    "eic": "21W000000000047Y",
+    "url": "https://agsi.gie.eu/api?country=SK&company=42X-POZAGAS-SK-V&facility=21W000000000047Y",
+    "short_name": "",
+    "name": "UGS Lab IV - Pozagas"
+  },
+  {
+    "country": "ES",
+    "type": "SSO",
+    "eic": "21X0000000013368",
+    "url": "https://agsi.gie.eu/api?country=ES&company=21X0000000013368",
+    "short_name": "Enagás GTS",
+    "name": "Enagas GTS S.A.U"
+  },
+  {
+    "country": "ES",
+    "type": "Storage Group",
+    "eic": "21W000000000032A",
+    "url": "https://agsi.gie.eu/api?country=ES&company=21X0000000013368&facility=21W000000000032A",
+    "short_name": "",
+    "name": "VGS Enagás Basic Underground Storage (Serrablo, Yela, Gaviota, Marismas)"
+  },
+  {
+    "country": "SE",
+    "type": "SSO",
+    "eic": "21X-SE-A-A0A0A-F",
+    "url": "https://agsi.gie.eu/api?country=SE&company=21X-SE-A-A0A0A-F",
+    "short_name": "Swedegas",
+    "name": "Swedegas AB"
+  },
+  {
+    "country": "SE",
+    "type": "Storage Facility",
+    "eic": "21W0000000000435",
+    "url": "https://agsi.gie.eu/api?country=SE&company=21X-SE-A-A0A0A-F&facility=21W0000000000435",
+    "short_name": "",
+    "name": "UGS Skallen"
+  },
+  {
+    "country": "GB",
+    "type": "SSO",
+    "eic": "55XHUMBLYGROVE1H",
+    "url": "https://agsi.gie.eu/api?country=GB&company=55XHUMBLYGROVE1H",
+    "short_name": "Humbly Grove Energy",
+    "name": "Humbly Grove Energy Ltd"
+  },
+  {
+    "country": "GB",
+    "type": "Storage Facility",
+    "eic": "55WHUMBLY1GROVER",
+    "url": "https://agsi.gie.eu/api?country=GB&company=55XHUMBLYGROVE1H&facility=55WHUMBLY1GROVER",
+    "short_name": "",
+    "name": "UGS Humbly Grove"
+  },
+  {
+    "country": "GB",
+    "type": "SSO",
+    "eic": "23X--140207-SSE9",
+    "url": "https://agsi.gie.eu/api?country=GB&company=23X--140207-SSE9",
+    "short_name": "SSE Gas Storage",
+    "name": "SSE Gas Storage"
+  },
+  {
+    "country": "GB",
+    "type": "Storage Facility",
+    "eic": "55WATWICK-SSE00J",
+    "url": "https://agsi.gie.eu/api?country=GB&company=23X--140207-SSE9&facility=55WATWICK-SSE00J",
+    "short_name": "",
+    "name": "UGS Hornsea (Atwick)"
+  },
+  {
+    "country": "GB",
+    "type": "Storage Facility",
+    "eic": "55WALDBOROUGH00H",
+    "url": "https://agsi.gie.eu/api?country=GB&company=23X--140207-SSE9&facility=55WALDBOROUGH00H",
+    "short_name": "",
+    "name": "UGS Aldbrough I"
+  },
+  {
+    "country": "GB",
+    "type": "SSO",
+    "eic": "48XSTORENGYUK01P",
+    "url": "https://agsi.gie.eu/api?country=GB&company=48XSTORENGYUK01P",
+    "short_name": "Storengy UK",
+    "name": "Storengy UK"
+  },
+  {
+    "country": "GB",
+    "type": "Storage Facility",
+    "eic": "21W000000000101H",
+    "url": "https://agsi.gie.eu/api?country=GB&company=48XSTORENGYUK01P&facility=21W000000000101H",
+    "short_name": "",
+    "name": "UGS Stublach"
+  },
+  {
+    "country": "GB",
+    "type": "SSO",
+    "eic": "21X0000000013716",
+    "url": "https://agsi.gie.eu/api?country=GB&company=21X0000000013716",
+    "short_name": "Uniper Energy Storage Ltd",
+    "name": "Uniper Energy Storage Limited"
+  },
+  {
+    "country": "GB",
+    "type": "Storage Facility",
+    "eic": "21W000000000112C",
+    "url": "https://agsi.gie.eu/api?country=GB&company=21X0000000013716&facility=21W000000000112C",
+    "short_name": "",
+    "name": "UGS Holford"
+  },
+  {
+    "country": "UA",
+    "type": "SSO",
+    "eic": "21X0000000013279",
+    "url": "https://agsi.gie.eu/api?country=UA&company=21X0000000013279",
+    "short_name": "Ukrtransgaz",
+    "name": "PJSC “UKRTRANSGAZ”"
+  },
+  {
+    "country": "UA",
+    "type": "Storage Group",
+    "eic": "VGS--UGS-UKRAINE",
+    "url": "https://agsi.gie.eu/api?country=UA&company=21X0000000013279&facility=VGS--UGS-UKRAINE",
+    "short_name": "",
+    "name": "VGS Ukraine (all storage facilities)"
+  },
+  {
+    "country": "GB*",
+    "type": "SSO",
+    "eic": "55XHUMBLYGROVE1H",
+    "url": "https://agsi.gie.eu/api?country=GB*&company=55XHUMBLYGROVE1H",
+    "short_name": "Humbly Grove Energy (Post-Brexit)",
+    "name": "Humbly Grove Energy Ltd"
+  },
+  {
+    "country": "GB*",
+    "type": "Storage Facility",
+    "eic": "55WHUMBLY1GROVER",
+    "url": "https://agsi.gie.eu/api?country=GB*&company=55XHUMBLYGROVE1H&facility=55WHUMBLY1GROVER",
+    "short_name": "",
+    "name": "UGS Humbly Grove (Post-Brexit)"
+  },
+  {
+    "country": "GB*",
+    "type": "SSO",
+    "eic": "23X--140207-SSE9",
+    "url": "https://agsi.gie.eu/api?country=GB*&company=23X--140207-SSE9",
+    "short_name": "SSE Gas Storage (Post-Brexit)",
+    "name": "SSE Gas Storage"
+  },
+  {
+    "country": "GB*",
+    "type": "Storage Facility",
+    "eic": "55WATWICK-SSE00J",
+    "url": "https://agsi.gie.eu/api?country=GB*&company=23X--140207-SSE9&facility=55WATWICK-SSE00J",
+    "short_name": "",
+    "name": "UGS Hornsea (Atwick) (Post-Brexit)"
+  },
+  {
+    "country": "GB*",
+    "type": "Storage Facility",
+    "eic": "55WALDBOROUGH00H",
+    "url": "https://agsi.gie.eu/api?country=GB*&company=23X--140207-SSE9&facility=55WALDBOROUGH00H",
+    "short_name": "",
+    "name": "UGS Aldbrough I (Post-Brexit)"
+  },
+  {
+    "country": "GB*",
+    "type": "SSO",
+    "eic": "48XSTORENGYUK01P",
+    "url": "https://agsi.gie.eu/api?country=GB*&company=48XSTORENGYUK01P",
+    "short_name": "Storengy UK (Post-Brexit)",
+    "name": "Storengy UK"
+  },
+  {
+    "country": "GB*",
+    "type": "Storage Facility",
+    "eic": "21W000000000101H",
+    "url": "https://agsi.gie.eu/api?country=GB*&company=48XSTORENGYUK01P&facility=21W000000000101H",
+    "short_name": "",
+    "name": "UGS Stublach (Post-Brexit)"
+  },
+  {
+    "country": "GB*",
+    "type": "SSO",
+    "eic": "21X0000000013716",
+    "url": "https://agsi.gie.eu/api?country=GB*&company=21X0000000013716",
+    "short_name": "Uniper Energy Storage Ltd (Post-Brexit)",
+    "name": "Uniper Energy Storage Limited"
+  },
+  {
+    "country": "GB*",
+    "type": "Storage Facility",
+    "eic": "21W000000000112C",
+    "url": "https://agsi.gie.eu/api?country=GB*&company=21X0000000013716&facility=21W000000000112C",
+    "short_name": "",
+    "name": "UGS Holford (Post-Brexit)"
+  }
+]
